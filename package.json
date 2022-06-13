@@ -1,0 +1,24 @@
+{
+  "name": "mission-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icoul/mission-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icoul/mission-guide/issues"
+  },
+  "homepage": "https://github.com/icoul/mission-guide#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
