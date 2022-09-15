@@ -1,5 +1,32 @@
 .container {
-  padding: 0 2rem;
+}
+
+.header {
+  background: #232323;
+  padding: 0rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid #787878;
+  border-bottom: 1px solid #787878;
+  font-size: 1.5rem;
+}
+
+.headerBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerBtn div {
+  flex: 3 1;
+  padding: 0.5rem 2rem;
+  margin: 0rem 0.5rem;
+  cursor: pointer;
+}
+
+.headerBtn div:hover {
+  background: #454545;
 }
 
 .main {
